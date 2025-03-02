@@ -18,10 +18,8 @@ This is a simple PHP script that counts word frequencies from text input. It:
 ## Usage
 
 ### 1. Running the Server (Optional for Testing)
-If using the built-in PHP server:
-```sh
-php -S localhost:8000
-```
+Start the PHP server:
+
 Then, access `http://localhost:8000/word_frequency_counter.php`.
 
 ### 2. Sending Data (POST Request)
